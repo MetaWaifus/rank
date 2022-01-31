@@ -1,0 +1,15 @@
+{
+    "skinColor": 31,
+    "hairColor": 138,
+    "hairStyle": 91,
+    "lips": 32,
+    "eyes": 28,
+    "clothes": 135,
+    "clothesColor": 382,
+    "backgroundColor": 141,
+    "facialExpression": 21,
+    "eyelids": 37,
+    "essence": 4,
+    "accessories": 792,
+    "total": 1832
+}
